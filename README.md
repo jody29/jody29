@@ -1,4 +1,4 @@
-### Hi there 👋
+![WakaTime Stats](https://wakatime.com/share/@jody29/6f50e71a-bfe7-4a7b-a83a-f75bf8c6d8e2.svg)
 
 <!--
 **jody29/jody29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
